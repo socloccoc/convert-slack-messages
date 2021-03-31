@@ -18,11 +18,11 @@
                             @csrf
                             <div class="form-group">
                                 <label>SheetId</label>
-                                <input class="form-control" name="sheet_id" value="1Li8k2NUF67YIS6hr943ybABs2kBcDeO9zuDSdz0s50A" />
+                                <input class="form-control" name="sheet_id" value="1pHPdN5M0Lj5gxna19H92OLffaQp4jXg-B0JPJKqBtcU" />
                             </div>
                             <div class="form-group">
                                 <label>Sheet Name</label>
-                                <input class="form-control" name="sheet_name" value="シート1" />
+                                <input class="form-control" name="sheet_name" value="dam" />
                             </div>
                             <div class="form-group">
                                 <label>Servers</label>
